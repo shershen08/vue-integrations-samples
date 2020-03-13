@@ -1,0 +1,31 @@
+Arguments: 
+  /usr/local/bin/node /Users/QJ26DT/.yarn/bin/yarn.js global upgrade vue@latest
+
+PATH: 
+  /Users/QJ26DT/.yarn/bin:/Users/QJ26DT/.config/yarn/global/node_modules/.bin:/Users/QJ26DT/flutter/bin:/Users/QJ26DT/.nix-profile/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/QJ26DT/Library/Python/3.6/bin:/usr/local/Cellar/graphviz/2.40.1/bin:/Users/QJ26DT/bin/lein:/usr/local/go/bin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/local/go/bin:/Users/QJ26DT/go/bin
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  12.7.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/QJ26DT/Developer/vue-integrations/vue-press/package.json: Unexpected token j in JSON at position 0
+      at JSON.parse (<anonymous>)
+      at /Users/QJ26DT/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/QJ26DT/.yarn/lib/cli.js:304:30)
+      at /Users/QJ26DT/.yarn/lib/cli.js:315:13
+
+npm manifest: 
+  jspn
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
